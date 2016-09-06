@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>DRONEBIRD@YAMATO</title>
+        <meta charset="utf-8" />
+        <style>
+            html, body, #map {
+                height: 100%;
+                margin: 0px;
+                padding: 0px
+            }
+        </style>
+
+        <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        <script type="text/javascript">
+            var map;
+
+            function initialize() {
+                var options = {
+                    zoom: 14,
+                    center: new google.maps.LatLng(35.4869, 139.457),
+                    mapTypeId: google.maps.MapTypeId.SATELLITE
+                };
+
+                map = new google.maps.Map(document.getElementById("map"), options);
+
+                var bounds = {
+                    14: [[14538, 14539], [6462, 6462]],
+                    15: [[29077, 29078], [12924, 12925]],
+                    16: [[58154, 58156], [25849, 25850]],
+                    17: [[116309, 116312], [51698, 51701]],
+                    18: [[232618, 232625], [103397, 103403]],
+                    19: [[465236, 465250], [206795, 206806]],
+                    20: [[930473, 930500], [413591, 413613]],
+                    21: [[1860946, 1861001], [827182, 827226]],
+                    22: [[3721892, 3722003], [1654365, 1654453]]
+                };
+
+                var imageMapType = new google.maps.ImageMapType({
+                    getTileUrl: function(coord, zoom) {
+                        if (zoom < 14 || zoom > 22 ||
+                            bounds[zoom][0][0] > coord.x || coord.x > bounds[zoom][0][1] ||
+                            bounds[zoom][1][0] > coord.y || coord.y > bounds[zoom][1][1]) {
+                            return null;
+                        }
+
+                        return zoom + "/" + coord.x + "/" + coord.y + ".png";
+                    },
+                    tileSize: new google.maps.Size(256, 256)
+                });
+
+                map.overlayMapTypes.push(imageMapType);
+            }
+
+            google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
+    </head>
+    <body>
+        <div id="map"></div>
+    </body>
+</html>
