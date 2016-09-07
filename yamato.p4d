@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pix4dmapper>
+    <options>
+        <loadTemplate>3d-maps</loadTemplate>
+    </options>
+    <inputs>
+        <images>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03159.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03160.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03161.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03162.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03163.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03164.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03165.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03166.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03167.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03168.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03169.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03170.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03171.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03172.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03173.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03174.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03175.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03176.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03177.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03178.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03179.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03180.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03181.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03182.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03183.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03184.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03185.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03186.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03187.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03188.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03189.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03190.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03191.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03192.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03193.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03194.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03195.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03196.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03197.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03198.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03199.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03200.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03201.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03202.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03203.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03204.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03205.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03206.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03207.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03208.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03209.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03210.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03211.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03212.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03213.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03214.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03215.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03216.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03217.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03218.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03219.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03220.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03221.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03222.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03223.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03224.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03225.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03226.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03227.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03228.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03229.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03230.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03231.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03232.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03233.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03234.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03235.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03236.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03237.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03238.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03239.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03240.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03241.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03242.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03243.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03244.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03245.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03246.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03247.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03248.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03249.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03250.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03251.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03252.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03253.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03254.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03255.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03256.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03257.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03258.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03259.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03260.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03261.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03262.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03263.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03264.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03265.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03266.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03267.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03268.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03269.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03270.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03271.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03272.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03273.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03274.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03275.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03276.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03277.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03278.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03279.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03280.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03281.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03282.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03283.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03284.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03285.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03286.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03287.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03288.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03289.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03290.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03291.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03292.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03293.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03294.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03295.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03296.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03297.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03298.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03299.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03300.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03301.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03302.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03303.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03304.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03305.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03306.JPG"/>
+            <image path="C:/Users/taichi/Documents/yamato/img/DSC03307.JPG"/>
+        </images>
+        <processingArea>
+            <geoCoord2D lat="35.4870216000" lng="139.4548610000"/>
+            <geoCoord2D lat="35.4852891000" lng="139.4556231000"/>
+            <geoCoord2D lat="35.4865157000" lng="139.4598425000"/>
+            <geoCoord2D lat="35.4882481000" lng="139.4590804400"/>
+        </processingArea>
+    </inputs>
+</pix4dmapper>
