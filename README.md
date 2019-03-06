@@ -2,7 +2,7 @@
 大和市空撮デモフライト
 
 View on ひなたGIS
-https://goo.gl/r14BLy
+https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#hCLcsjXCVQDk
 
 - XYZ Tile <https://github.com/dronebird/oam_yamatocity2016firstflight/raw/master/yamatocity20160906firstflight_epsg900913/{z}/{x}/{y}.png>
 - Mozaic on GigaPan <http://www.gigapan.com/gigapans/190992>
