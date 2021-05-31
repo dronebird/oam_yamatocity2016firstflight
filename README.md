@@ -2,6 +2,7 @@
 大和市空撮デモフライト
 
 日時： 2016年09月06日 11:00-11:30
+
 Provider: CrisisMappersJapan/DRONEBIRD
 
 View on ひなたGIS
