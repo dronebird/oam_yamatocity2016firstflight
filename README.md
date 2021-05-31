@@ -1,6 +1,8 @@
 # oam_yamatocity2016firstflight
 大和市空撮デモフライト
 
+日時： 2016年09月06日 11:00-11:30
+
 View on ひなたGIS
 https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#hCLcsjXCVQDk
 
